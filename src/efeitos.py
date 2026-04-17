@@ -3,10 +3,10 @@ from console_utils import clear_screen, pause
 
 def main():
     clear_screen()
+    print("START")
     print("Hello, World!")
     print("Goodbye, World!")
     print("END")
-    pause()
 
 
 #:
