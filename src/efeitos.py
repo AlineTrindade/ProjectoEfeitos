@@ -5,7 +5,7 @@ def main():
     clear_screen()
     print("Hello, World!")
     print("Goodbye, World!")
-    print("--ThE enD--")
+    print("The end")
     pause()
 
 
