@@ -19,4 +19,4 @@ Depois e muito importante "salvar" o arquivo.
 					      
 > Após inserir um ficheiro novo em vscode , abrir terminal e por os códigos git add . , depois git commit -m 'escreve a modificação' , depois git status , depois git push , depois dá refresh no GitHub
 > Após modificações em ficheiro existente em vscode , abrir terminal e por o código git commit -am 'escreve a modificação' , depois git status , depois git push , depois dá refresh no GitHub
-> Para atualizar meu github, abro o terminal no ficheiro ProjetoEfeitos e escrevo o código git pull .
+> Para atualizar meu github, abro o terminal no ficheiro ProjetoEfeitos e escrevo o código git pull 
