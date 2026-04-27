@@ -1,7 +1,0 @@
-Perguntas para o professor:
-1 - onde esta o ficheiro do Git cheat sheet?
-
-2-Por que os icons do vídeos do professor estão coloridos e o nossos não?
-
-3- Vídeo 5 do projeto- git 2
-	o nosso projeto, na powershell, o src/efeitos.py não esta modified

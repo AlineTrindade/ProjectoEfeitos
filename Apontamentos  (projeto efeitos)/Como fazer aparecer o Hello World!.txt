@@ -1,8 +1,0 @@
-Como fazer aparecer o "Hello World!" no Terminal do VS Code (Python)
-1- ls
-
-2- cd src
-
-3-ls
-
-4-python efeitos.py
