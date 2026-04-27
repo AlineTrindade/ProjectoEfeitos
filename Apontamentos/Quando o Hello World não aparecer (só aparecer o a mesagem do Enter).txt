@@ -1,0 +1,2 @@
+Se o comando foi bem escrito e não aparecer (Só aparecer o "Enter para continuar" vai-se a pasta onde esta o "efeitos.py", que estará na pasta src, clicar com o botão direito e clicar na opção "Abrir no terminal", se o sistema operativo for o Windows 11, deve-se a mesma clicar com o botão direito, clicar em "Mostrar mais opções" e clicar em "Abrir no terminal".
+E depois e so fazer o comando "ls" e escrever o "Python efeitos.py".
